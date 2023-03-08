@@ -2,12 +2,12 @@ package com.mycompany.atividadessala;
 
 /**
  *
- * @author Vinicius
+ * @author aluno
  */
 public class testeCachorro {
 
     public static void main(String[] args) {
-
+     
         Cachorro cachorroFilho = new Cachorro();
 
         cachorroFilho.raca = "Pastor-Alemão";
@@ -34,7 +34,7 @@ public class testeCachorro {
 
         Cachorro cachorroFilho4 = new Cachorro();
 
-        cachorroFilho4.raca = "Border Collie";
+        cachorroFilho4.raca = "Boder Colier";
         cachorroFilho4.idade = 4;
         cachorroFilho4.peso = 10;
         cachorroFilho4.cor = "Preto";
@@ -48,4 +48,5 @@ public class testeCachorro {
         cachorroFilho5.cor = "Marrom";
         cachorroFilho5.porte = "Pequeno";
     }
+    
 }
