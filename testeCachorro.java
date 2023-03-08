@@ -2,7 +2,7 @@ package com.mycompany.atividadessala;
 
 /**
  *
- * @author aluno
+ * @author Vinicius
  */
 public class testeCachorro {
 
