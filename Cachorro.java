@@ -6,9 +6,9 @@ package com.mycompany.atividadessala;
  */
 public class Cachorro {
 
-        String raca;
-        String cor;
-        String porte;
-        int idade;
-        int peso;
+        public String raca;
+        public String cor;
+        public String porte;
+        public int idade;
+        public int peso;
     }
