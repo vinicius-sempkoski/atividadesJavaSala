@@ -34,7 +34,7 @@ public class testeCachorro {
 
         Cachorro cachorroFilho4 = new Cachorro();
 
-        cachorroFilho4.raca = "Boder Colier";
+        cachorroFilho4.raca = "Border Collie";
         cachorroFilho4.idade = 4;
         cachorroFilho4.peso = 10;
         cachorroFilho4.cor = "Preto";
